@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Systolic,Diastolic,Systolic Blood Pressure,Diastolic Blood Pressure,Activity Level,Sleep Efficiency (%),Blood Pressure Classification
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None,126,83,126,83,Low Activity,98.36065573770493,Normal/Hypertensive
+2,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,125,80,125,80,High Activity,96.77419354838709,Normal/Hypertensive
+3,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,125,80,125,80,High Activity,96.77419354838709,Normal/Hypertensive
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,140,90,140,90,Low Activity,67.79661016949152,Normal/Hypertensive
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,140,90,140,90,Low Activity,67.79661016949152,Normal/Hypertensive
+6,Male,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia,140,90,140,90,Low Activity,67.79661016949152,Normal/Hypertensive
+7,Male,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia,140,90,140,90,Low Activity,95.23809523809524,Normal/Hypertensive
+8,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+9,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+10,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+17,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,132,87,132,87,Low Activity,76.92307692307693,Normal/Hypertensive
+18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+19,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia,132,87,132,87,Low Activity,76.92307692307693,Normal/Hypertensive
+20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,92.10526315789474,Normal/Hypertensive
+21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+22,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+23,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+24,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+25,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+26,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,88.60759493670885,Normal/Hypertensive
+27,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+28,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,88.60759493670885,Normal/Hypertensive
+29,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,88.60759493670885,Normal/Hypertensive
+30,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,88.60759493670885,Normal/Hypertensive
+31,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,130,86,130,86,Low Activity,78.125,Normal/Hypertensive
+32,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia,130,86,130,86,Low Activity,78.125,Normal/Hypertensive
+33,Female,31,Nurse,7.9,8,75,4,Normal Weight,117/76,69,6800,None,117,76,117,76,Moderate Activity,100.0,Normal/Hypertensive
+34,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+35,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+36,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+37,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+38,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,92.10526315789474,Normal/Hypertensive
+39,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,92.10526315789474,Normal/Hypertensive
+40,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,92.10526315789474,Normal/Hypertensive
+41,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+42,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+43,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+44,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+45,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+46,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+47,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+48,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,89.74358974358975,Normal/Hypertensive
+49,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,92.10526315789474,Normal/Hypertensive
+55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,120,80,Moderate Activity,90.9090909090909,Normal/Hypertensive
+61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,96.77419354838709,Normal/Hypertensive
+64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,96.77419354838709,Normal/Hypertensive
+65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,96.77419354838709,Normal/Hypertensive
+66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,96.77419354838709,Normal/Hypertensive
+67,Male,32,Accountant,7.2,8,50,6,Normal Weight,118/76,68,7000,None,118,76,118,76,Moderate Activity,100.0,Normal/Hypertensive
+68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,128,85,128,85,Moderate Activity,96.77419354838709,Normal/Hypertensive
+70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,128,85,128,85,Moderate Activity,96.77419354838709,Normal/Hypertensive
+71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,98.36065573770493,Normal/Hypertensive
+75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,131,86,Moderate Activity,68.96551724137932,Normal/Hypertensive
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,131,86,Moderate Activity,68.96551724137932,Normal/Hypertensive
+83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,128,84,128,84,Moderate Activity,100.0,Normal/Hypertensive
+84,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,128,84,128,84,Moderate Activity,100.0,Normal/Hypertensive
+85,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+86,Female,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+87,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+88,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+89,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+90,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+91,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+92,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+93,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+94,Male,35,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88,135,88,Low Activity,94.5945945945946,Normal/Hypertensive
+95,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Insomnia,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+96,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+97,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+98,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+99,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+100,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+101,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+102,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+103,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+104,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea,129,84,129,84,Low Activity,75.75757575757575,Normal/Hypertensive
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+106,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia,129,84,129,84,Low Activity,75.75757575757575,Normal/Hypertensive
+107,Female,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,None,126,83,126,83,Low Activity,98.36065573770493,Normal/Hypertensive
+108,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+109,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+110,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+111,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+112,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+113,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+114,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+115,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+116,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+117,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+118,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+119,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+120,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+121,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+122,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+123,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+124,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+125,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+126,Female,37,Nurse,7.5,8,60,4,Normal Weight,120/80,70,8000,None,120,80,120,80,Moderate Activity,100.0,Normal/Hypertensive
+127,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+128,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+129,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+130,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+131,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+132,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+133,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+134,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+135,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+136,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+137,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+138,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+139,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+140,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+141,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+142,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+143,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+144,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,115,75,Moderate Activity,100.0,Normal/Hypertensive
+145,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88,135,88,Low Activity,94.5945945945946,Normal/Hypertensive
+147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,132,87,132,87,Low Activity,76.92307692307693,Normal/Hypertensive
+149,Female,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,None,128,85,128,85,Moderate Activity,100.0,Normal/Hypertensive
+150,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,None,115,78,115,78,Moderate Activity,100.0,Normal/Hypertensive
+151,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,None,115,78,115,78,Moderate Activity,100.0,Normal/Hypertensive
+152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+155,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+156,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+157,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+158,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+162,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None,119,77,119,77,Moderate Activity,100.0,Normal/Hypertensive
+163,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None,119,77,119,77,Moderate Activity,100.0,Normal/Hypertensive
+164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+167,Male,41,Engineer,7.3,8,70,6,Normal Weight,121/79,72,6200,None,121,79,121,79,Moderate Activity,100.0,Normal/Hypertensive
+168,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,125,82,125,82,Moderate Activity,98.59154929577466,Normal/Hypertensive
+169,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,125,82,125,82,Moderate Activity,98.59154929577466,Normal/Hypertensive
+170,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+171,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+172,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+173,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+174,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+175,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+176,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+177,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+178,Male,42,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+179,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+180,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+181,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+182,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+183,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+184,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+185,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,130,85,130,85,Moderate Activity,88.23529411764706,Normal/Hypertensive
+186,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,130,85,130,85,Moderate Activity,88.23529411764706,Normal/Hypertensive
+187,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+188,Male,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+189,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+190,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+191,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+192,Male,43,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+193,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+194,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+195,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+196,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+197,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+198,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+199,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+200,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+201,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+202,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+203,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+204,Male,43,Engineer,6.9,6,47,7,Normal Weight,117/76,69,6800,None,117,76,117,76,Moderate Activity,86.95652173913044,Normal/Hypertensive
+205,Male,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,None,122,80,122,80,Moderate Activity,100.0,Normal/Hypertensive
+206,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+207,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+208,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+209,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+210,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+211,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+212,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+213,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+214,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+215,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+216,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+217,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+218,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+219,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+220,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+221,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+222,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+223,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+224,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+225,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+226,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+227,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+228,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+229,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+230,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+231,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+232,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+233,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+234,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+235,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+236,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+237,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+238,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+240,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+241,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+242,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+243,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,95.23809523809524,Normal/Hypertensive
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,None,130,85,130,85,Moderate Activity,93.75,Normal/Hypertensive
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,None,130,85,130,85,Moderate Activity,92.3076923076923,Normal/Hypertensive
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+252,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+253,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+254,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+255,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+256,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+257,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+258,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+259,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+260,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+261,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+262,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+263,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,135,90,135,90,Moderate Activity,100.0,Normal/Hypertensive
+264,Female,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,None,125,82,125,82,Moderate Activity,100.0,Normal/Hypertensive
+265,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,142,92,142,92,Low Activity,95.89041095890411,Normal/Hypertensive
+266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,142,92,142,92,Low Activity,95.89041095890411,Normal/Hypertensive
+268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,None,140,95,140,95,High Activity,96.77419354838709,Normal/Hypertensive
+269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+273,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+274,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,96.77419354838709,Normal/Hypertensive
+275,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,96.77419354838709,Normal/Hypertensive
+276,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,96.77419354838709,Normal/Hypertensive
+277,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,139,91,139,91,Low Activity,100.0,Normal/Hypertensive
+278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,139,91,139,91,Low Activity,100.0,Normal/Hypertensive
+279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,None,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+303,Female,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,None,125,82,125,82,Moderate Activity,98.59154929577466,Normal/Hypertensive
+304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,100.0,Normal/Hypertensive
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,140,95,High Activity,98.36065573770493,Normal/Hypertensive
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,130,85,Moderate Activity,100.0,Normal/Hypertensive
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+314,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+315,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+317,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+318,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+319,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+320,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+321,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+322,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+323,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+324,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+325,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+326,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+327,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+328,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+329,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+330,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+331,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+332,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+333,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+334,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+335,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+336,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+337,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+338,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+339,Female,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,125,80,Moderate Activity,100.0,Normal/Hypertensive
+340,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+341,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+342,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,None,118,75,118,75,High Activity,100.0,Normal/Hypertensive
+343,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,None,118,75,118,75,High Activity,100.0,Normal/Hypertensive
+344,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+345,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+346,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+347,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+348,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+349,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,None,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
+374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,140,95,Moderate Activity,100.0,Normal/Hypertensive
