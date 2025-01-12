@@ -2,12 +2,20 @@
 
 ---
 
-![Project Image Placeholder](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)
-![Project Image Placeholder2](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/5.%20Presentation/Healthy%20Lifestyle%20Metrics.png)
+![Dashboard Preview](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)
+![Presentation Preview](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/5.%20Presentation/Healthy%20Lifestyle%20Metrics.png)
+
 ---
 
 ## **Overview**
 This project investigates the intricate relationships between **sleep quality**, **stress levels**, and **lifestyle factors** such as **BMI**, **daily physical activity**, and **occupation-related stress**. By analyzing patterns and correlations in the dataset, we uncover meaningful insights into how these factors affect health outcomes.
+
+---
+
+## **Interactive Dashboard**
+Click below to view the interactive Power BI report:
+
+[![View Power BI Report](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)](https://app.powerbi.com/reportEmbed?reportId=418e548f-1b00-45c8-96a5-2a320d4d5047&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159)
 
 ---
 
@@ -52,25 +60,13 @@ This project investigates the intricate relationships between **sleep quality**,
 
 ---
 
-## **Features**
-- **Dashboard Highlights:**
-  - Gender-wise BMI and stress distribution.
-  - Interactive charts for physical activity, heart rate, and sleep disorders.
-  - Occupation-based stress and sleep quality metrics.
-
-- **Streamlit Application:**
-  - Customizable filtering based on age, gender, and physical activity levels.
-  - Real-time updates to visualizations, making insights accessible for various user needs.
-
----
-
 ## **How to Run**
 1. Clone the repository from GitHub: `git clone https://github.com/vasilis6194/Sleep-and-Health-Lifestyle`.
 2. Open the Power BI dashboard files for analysis.
 3. To run the Streamlit application:
    ```bash
    streamlit run app.py
-   ```
+
 
 ---
 
