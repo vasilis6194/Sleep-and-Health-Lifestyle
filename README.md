@@ -2,7 +2,7 @@
 
 ---
 
-![Project Image Placeholder](#)
+![Project Image Placeholder](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)
 
 ---
 
