@@ -65,7 +65,7 @@ This project investigates the intricate relationships between **sleep quality**,
 ---
 
 ## **How to Run**
-1. Clone the repository from GitHub: `git clone <repository-link>`.
+1. Clone the repository from GitHub: `git clone https://github.com/vasilis6194/Sleep-and-Health-Lifestyle`.
 2. Open the Power BI dashboard files for analysis.
 3. To run the Streamlit application:
    ```bash
