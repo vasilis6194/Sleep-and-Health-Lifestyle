@@ -4,7 +4,7 @@
 ## **Interactive Dashboard**
 Click below to view the interactive Power BI report:
 
-[![View Power BI Report](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)](https://app.powerbi.com/reportEmbed?reportId=418e548f-1b00-45c8-96a5-2a320d4d5047&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159)
+[![View Power BI Report](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)](https://app.powerbi.com/view?r=eyJrIjoiYzU5Zjg5OTgtMjhhYy00NDllLWFkMDktOWIyZDk5MjQ1MTQ0IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 ---
 
