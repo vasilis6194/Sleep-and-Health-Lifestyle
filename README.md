@@ -3,7 +3,7 @@
 ---
 
 ![Project Image Placeholder](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)
-
+![Project Image Placeholder2](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/5.%20Presentation/Healthy%20Lifestyle%20Metrics.png)
 ---
 
 ## **Overview**
