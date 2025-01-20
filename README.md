@@ -7,7 +7,10 @@ Click below to view the interactive Power BI report:
 [![View Power BI Report](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/4.%20Dashboard/Health%20Metrics.png)](https://app.powerbi.com/view?r=eyJrIjoiYzU5Zjg5OTgtMjhhYy00NDllLWFkMDktOWIyZDk5MjQ1MTQ0IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 ---
+Click below to view the interactive Streamlit App Dashboard:
 
+[![View Streamlit App](https://github.com/vasilis6194/Sleep-and-Health-Lifestyle/blob/main/App/app_preview.png)](https://healthsleep.streamlit.app/)
+---
 ## **Overview**
 This project investigates the intricate relationships between **sleep quality**, **stress levels**, and **lifestyle factors** such as **BMI**, **daily physical activity**, and **occupation-related stress**. By analyzing patterns and correlations in the dataset, we uncover meaningful insights into how these factors affect health outcomes.
 
