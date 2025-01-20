@@ -7,7 +7,7 @@ import squarify
 
 
 # Load the dataset
-data_path = r'C:\Users\Vasilis\Desktop\Github\Sleep and Health Lifestyle\3. Cleaning\cleaned_sleep_health_dataset.csv'  # Ensure the file is in the same directory
+data_path = r'https://raw.githubusercontent.com/vasilis6194/Sleep-and-Health-Lifestyle/refs/heads/main/3.%20Cleaning/cleaned_sleep_health_dataset.csv'  # Ensure the file is in the same directory
 data = pd.read_csv(data_path)
 
 # Create an age decade column for further analysis
